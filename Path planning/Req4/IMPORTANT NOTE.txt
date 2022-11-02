@@ -1,0 +1,4 @@
+As my map doesn't have much space in it, the BFS and DFS paths are all almost the same for this maze.
+I tried it on other mazes bit not mine actuly and it worked.
+BFS is always better and gives semi-optimal paths
+
